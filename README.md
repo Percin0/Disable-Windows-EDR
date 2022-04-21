@@ -1,0 +1,1 @@
+# Disable-Windows-EDR
